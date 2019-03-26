@@ -1,0 +1,17 @@
+/* Login Page */
+body{
+	background-color:lightblue;
+}
+
+
+.card{
+	margin-left:500px;
+	border-radius:5px;
+}
+
+/* Menu Page */
+
+.withdraw{
+	width:400px;
+	background-color: red;
+}
